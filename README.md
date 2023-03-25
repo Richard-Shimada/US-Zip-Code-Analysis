@@ -18,7 +18,7 @@ Summary
 
 3. 5-digit zip populations are more positively skewed as the median is comparatively closer to the bottom of the IQR. 
 
-4. There is a wider range of population values at the 3-digit zip level as the whiskers are longer than the ones for the 5-digit plot.
+4. There is a wider range of population values at the 3-digit zip level as the whiskers are longer than the ones for the 5-digit plot. </br></br>
 
 
 
