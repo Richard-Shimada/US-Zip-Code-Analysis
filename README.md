@@ -17,7 +17,7 @@ Summary
 
 
 
-![image](https://github.com/Richard-Shimada/Project-3/US-Zip-Code-Analysis/main/Data/lmplot.png)
+![image](https://github.com/Richard-Shimada/Project-3/US-Zip-Code-Analysis/Data/lmplot.png)
 
 
 
