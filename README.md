@@ -11,13 +11,13 @@ Summary
 
 1) How many movies had at least some valid financial information (values > 0 for budget OR revenue)?
 
-![image](https://github.com/Richard-Shimada/Project-3/blob/main/Data/pie.png)
+![image](https://github.com/Richard-Shimada/US-Zip-Code-Analysis/blob/main/Data/boxplots.png)
 
 2) How many movies are there in each of the certification categories (G/PG/PG-13/R)?
 
 
 
-![image](https://github.com/Richard-Shimada/Project-3/blob/main/Data/cert_type.png)
+![image](https://github.com/Richard-Shimada/Project-3/US-Zip-Code-Analysis/main/Data/lmplot.png)
 
 
 
